@@ -44,3 +44,9 @@ The next time it detects motion, the previously captured images and zipped file 
 
 ### Flowchart : Server
 ![imgflow](https://user-images.githubusercontent.com/42694653/88502614-98bd5d80-cfec-11ea-81f5-ef0243ec21a6.png)
+
+Suggestions are always welcomed. Raise an issue, if you got any.
+
+Thank you!
+
+~thevirtualbuddy
